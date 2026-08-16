@@ -1,5 +1,3 @@
-#PROJETO DE ENG. SW.
-#GRUPO: Felipe Marinho Rocha, Alexandre Alves, Wesley dos Reis, Danilo Gomes
 from time import sleep
 def menu():
     print(f'''{'='*25}
